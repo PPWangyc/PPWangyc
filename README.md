@@ -1,7 +1,7 @@
 ### Hi There, I'm Yanchen Wang 👋
 
 - 🔭 I’m currently studying at ***the University of Rochester***
-- 🌱 I’m currently working as software development engineer intern, crypto staking, at Foundry - A digital Currency Group Company **Go**, **React**, and **TypeScript**
+- 🌱 I’m currently working as software development engineer intern, crypto staking, at Foundry - A digital Currency Group Company. Learning **Go**, **Docker**, and **Kubernetes**
 - 🤔 I’m currently looking for ***Software Developers and Engineers*** jobs
 - 📫 How to reach me?
   
