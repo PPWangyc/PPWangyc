@@ -1,8 +1,8 @@
 ### Hi There, I'm Yanchen Wang 👋
 
-- 🔭 I’m currently studying at ***the University of Rochester***, and worked with Prof.Christopher Kanan on continual learning and deep learning.
+- 🤔 I’m currently working as a research engineer at ***Stanford University***, CogT lab, working on Computer Vision, brain imaging (fMRI), and cognitive science. My research interests are AI and neuroscience. I am advised by Prof. Vankee Feng Lin and Prof. Ehsan Adeli.
+- 🔭 I completed my Bachelor of Science at ***the University of Rochester***, where I worked with Prof.Christopher Kanan on continual learning and deep learning.
 - 🌱 I previously worked as software development engineer intern, crypto staking, at ***Foundry - A digital Currency Group Company***. I also worked at ***Binance*** and was respnsible for Binance public API and brokerage API. Learning **Go**, **Docker**, and **Kubernetes**
-- 🤔 I’m currently working as a research assistant at ***Stanford University***, CogT lab, working on medical image processing. 
 - 📫 How to reach me?
   
   [![LinkedIn](https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=20)](https://www.linkedin.com/in/yanchen-wang-yw/)
