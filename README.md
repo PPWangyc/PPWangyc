@@ -6,7 +6,7 @@
 - 📫 How to reach me?
   
   [![LinkedIn](https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=20)](https://www.linkedin.com/in/yanchen-wang-yw/)
-  [![Gmail](https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=20)](mailto:ywang330@u.rochester.edu)
+  [![Gmail](https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=20)](mailto:ppwang@stanford.edu)
   [![Twitter](https://api.iconify.design/simple-icons/twitter.svg?color=%230084FF&height=20)](https://twitter.com/wilson_witex)
 
 ### Languages & Frameworks
