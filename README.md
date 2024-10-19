@@ -17,4 +17,4 @@
 [![HTML5](https://api.iconify.design/simple-icons/html5.svg?color=%23E34F26&height=24)](https://html.spec.whatwg.org/)
 [![Flask](https://api.iconify.design/simple-icons/flask.svg?color=%23000000&height=24)](https://flask.palletsprojects.com/)
 [![Bash](https://api.iconify.design/simple-icons/gnubash.svg?color=%234EAA25&height=24)](https://www.gnu.org/software/bash/)
-[![Markdown](https://api.iconify.design/simple-icons/markdown.svg?color=%23000000&he
+[![Markdown](https://api.iconify.design/simple-icons/markdown.svg?color=%23000000&he)](https://spec.commonmark.org/)
